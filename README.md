@@ -1,1 +1,2 @@
 # Regressiontest
+smoke test
